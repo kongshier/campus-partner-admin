@@ -6,7 +6,7 @@
 
 本项目使用 **Vite+Vue3+Element-Plus** ，作为 **校园（Campus）** 伙伴匹配系统的后台管理系统。
 
-本项目非必须，主要功能在 **[super-backend](https://gitee.com/kcsen/campus-backend-master)**  及 **[super-frontend-front](https://gitee.com/kcsen/campus-partner-frontend)** 中已经实现。
+本项目非必须，主要功能在 **[campus-backend](https://gitee.com/kcsen/campus-backend-master)**  及 **campus-frontend-front](https://gitee.com/kcsen/campus-partner-frontend)** 中已经实现。
 
 
 仅管理员账号可以登录本系统，管理员可以将普通用户升级为管理员，但 **第一个** 管理员只能进入数据库修改，将需要成为管理员的用户  `role` 改为 `1` 即可，如下图所示。
